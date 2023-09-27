@@ -1,5 +1,5 @@
 # All My Fountains
-Chris Tomlin / Chris Tomlin / Chris Tomlin / Passion / Passion / Passion
+*Chris Tomlin / Chris Tomlin / Chris Tomlin / Passion / Passion / Passion*
 
 ## Verse 1
 This dry and desert land, I tell myself keep walking on
