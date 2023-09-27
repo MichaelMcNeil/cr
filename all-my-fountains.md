@@ -10,9 +10,9 @@ An everlasting stream, Your river carries me home, let it flow, let it flow
 All my fountains
 
 ## Verse 2
-A flood for my soul,a well that never will run dry
-I've rambled on my own, never believing I would find
-An everlasting stream, Your river carries me home, let it flow, let it flow
+A flood for my soul,a well that never will run dry  
+I've rambled on my own, never believing I would find  
+An everlasting stream, Your river carries me home, let it flow, let it flow  
 
 ## Chorus 1
 Open the heavens, come living water, all my fountains are in You
