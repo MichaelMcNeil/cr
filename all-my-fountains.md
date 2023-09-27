@@ -1,27 +1,27 @@
-All My Fountains
+#All My Fountains
 Chris Tomlin / Chris Tomlin / Chris Tomlin / Passion / Passion / Passion
 
-Verse 1
+##Verse 1
 This dry and desert land, I tell myself keep walking on
 Here's something up ahead, water falling like a song
 An everlasting stream, Your river carries me home, let it flow, let it flow
 
-Instrumental
+##Instrumental
 All my fountains
 
-Verse 2
+##Verse 2
 A flood for my soul,a well that never will run dry
 I've rambled on my own, never believing I would find
 An everlasting stream, Your river carries me home, let it flow, let it flow
 
-Chorus 1
+##Chorus 1
 Open the heavens, come living water, all my fountains are in You
 Strong like a river, Your love is running through, all my fountains are in You
 
-Bridge 
+##Bridge 
 Come on and rain down on us, rain down on us Lord
 
-Chorus 2
+##Chorus 2
 Open the heavens, come living water, all my fountains are in You
 Strong like a river, Your love is running through, all my fountains are in You
 Open the heavens, come living water, all my fountains are in You
