@@ -51,4 +51,6 @@ all my fountains are in You
 All my fountains are in You,     
 All my fountains are in You     
 
-© 2010 Sweater Weather worshiptogether.com Songs sixsteps Music Vamos Publishing (Admin by Capitol CMG Publishing). CCLI Song No. 5925670. Unauthorized distribution is prohibited. Words and music by Chris Tomlin / Chris Tomlin / Nathan Nockels / Nathan Nockels / Christy Nockels / Christy Nockels. 
+```
+© 2010 Sweater Weather worshiptogether.com Songs sixsteps Music Vamos Publishing (Admin by Capitol CMG Publishing). CCLI Song No. 5925670. Unauthorized distribution is prohibited. Words and music by Chris Tomlin / Chris Tomlin / Nathan Nockels / Nathan Nockels / Christy Nockels / Christy Nockels.
+```
